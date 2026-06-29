@@ -44,7 +44,7 @@ weather-app-node.js/
 🚀 Getting Started
 
 1\. Clone the Repository
-git clone https://github.com/Gelilaaag/weather-app-node.js.git
+git clone https://github.com/Gelilaaah/weather-app-node.js.git
 cd weather-app-node.js
 2\. Install Dependencies
 npm install
